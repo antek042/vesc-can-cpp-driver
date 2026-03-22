@@ -1,4 +1,5 @@
-# vesc-cpp
+# vesc-can-cpp-driver
+
 C++ interface for controlling and monitoring VESC 6 motor controllers over Linux SocketCAN.
 
 ## Overview
